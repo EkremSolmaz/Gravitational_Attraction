@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gravitational_Attraction/static/css/main.807b1c6b.css",
+    "main.js": "/Gravitational_Attraction/static/js/main.f975546c.js",
+    "static/js/787.2b4f7f53.chunk.js": "/Gravitational_Attraction/static/js/787.2b4f7f53.chunk.js",
+    "index.html": "/Gravitational_Attraction/index.html",
+    "main.807b1c6b.css.map": "/Gravitational_Attraction/static/css/main.807b1c6b.css.map",
+    "main.f975546c.js.map": "/Gravitational_Attraction/static/js/main.f975546c.js.map",
+    "787.2b4f7f53.chunk.js.map": "/Gravitational_Attraction/static/js/787.2b4f7f53.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.807b1c6b.css",
+    "static/js/main.f975546c.js"
+  ]
+}
